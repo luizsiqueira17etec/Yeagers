@@ -1,8 +1,12 @@
 # Yeagers
+import time
+
 a=0
 
-while a <=1000:
+while a <=12:
 
-  print"tatakae"
-
-  a = a + 1
+    time.sleep(1)
+    print ("tatakae")
+    a = a + 1
+    
+print ("COME MARLEYANO")
